@@ -1,0 +1,4 @@
+# Personal details and post history stay local
+config.local.md
+past-topics.md
+.DS_Store
