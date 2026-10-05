@@ -32,7 +32,7 @@ A Claude Code skill that drafts one short LinkedIn post a week on the latest oil
 Clone this repo into your Claude Code skills folder:
 
 ```bash
-git clone https://github.com/<your-username>/weekly-oilgas-ai-post.git ~/.claude/skills/weekly-oilgas-ai-post
+git clone https://github.com/rigoordonio/weekly-oilgas-ai-post.git ~/.claude/skills/weekly-oilgas-ai-post
 cd ~/.claude/skills/weekly-oilgas-ai-post
 cp config.example.md config.local.md   # then fill in your details
 ```
